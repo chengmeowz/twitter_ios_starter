@@ -31,5 +31,8 @@ Describe any challenges encountered while building the app.
 #### When I was working on the project, I found there is an error shows 
     "Thread 1: signal SIGABRT"
 #### The output box shows the error message 
-    "2019-11-01 20:51:32.891808-0700 Twitter[69235:297427] *** Terminating app due to uncaught exception 'NSUnknownKeyException', reason: '[<Twitter.HomeTableViewController 0x7fe16ce0d650> setValue:forUndefinedKey:]: this class is not key value coding-compliant for the key onLogout.'"
+    "2019-11-01 20:51:32.891808-0700 Twitter[69235:297427] 
+    *** Terminating app due to uncaught exception 'NSUnknownKeyException', 
+    reason: '[<Twitter.HomeTableViewController 0x7fe16ce0d650> 
+    setValue:forUndefinedKey:]: this class is not key value coding-compliant for the key onLogout.'"
 #### I asked the professor of Codepath on Slack told me that I probably created an outlet called onLogout. It turned out the professor said was totally correct. I went to the Storyboard and deleted the outlet version for onLogout, and the program was succeed.
