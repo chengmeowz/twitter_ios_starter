@@ -18,12 +18,6 @@ The following **bonus** features are implemented:
 - [ ] User can view their profile in a profile tab. (3pts)
 - [ ] User sees embedded images in tweet if available. (3pts)
 
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-<img src='http://g.recordit.co/wfbX5xVzHC.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 # Project 3 - *twitter*
 
 **twitter** is a basic twitter app to read your tweets.
@@ -44,12 +38,6 @@ The following **bonus** features are implemented:
 
 - [ ] User can pull to refresh. (1pt)
 - [ ] User can load past tweets infinitely. (2pts)
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-<img src='http://g.recordit.co/KeMPG1DXQQ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Notes
 Describe any challenges encountered while building the app.
